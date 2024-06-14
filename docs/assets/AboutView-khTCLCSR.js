@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as s,a as t}from"./index-BJ_ey7rf.js";const a={},c={class:"about"},n=t("h1",null,"Esta es la otra parte del trabajo",-1),_=t("p",null,null,-1),r=t("h2",null,"O, esta otra parte",-1),l=t("p",null," O por aca ",-1),d=[n,_,r,l];function i(u,h){return s(),o("div",c,d)}const f=e(a,[["render",i]]);export{f as default};
